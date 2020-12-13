@@ -11,4 +11,4 @@ The purpose of this challenge is to complete an analysis on video game reviews f
 
 ## SUMMARY
 As determined in the results, it appears that the sample sizes vary significantly, with fewer than 100 vine reviews compared to more than 40,000 non-vine reviews. Using the 5-star reviews as a benchmark to determine bias, it seems like there is a 12% difference in 5 star review percentages, where those 12% were more likely to give a 5-star review when paid compared to the unpaid reviews. The table below presents that summary.
-![Summary.png](Resources/Summary.png)
+![Summary2.png](Resources/Summary2.png)
